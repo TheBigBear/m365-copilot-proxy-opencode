@@ -15,7 +15,7 @@ const POWERPLATFORM_SCOPES = ["https://api.powerplatform.com/.default"];
 const BAP_SCOPES = ["https://api.bap.microsoft.com/.default"];
 const BAP_API = "https://api.bap.microsoft.com";
 
-const AGENT_BASE_NAME = "m365-tool-agent";
+const AGENT_BASE_NAME = "m365-tool-agent-opencode";
 const AGENT_DESCRIPTION = "Auto-created agent for tool calling";
 
 // The agent's instructions are baked in at creation time and can't be cheaply
